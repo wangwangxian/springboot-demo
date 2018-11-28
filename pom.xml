@@ -17,6 +17,7 @@
     <modules>
         <module>web-controller</module>
         <module>common-mybatis</module>
+        <module>common-swagger2</module>
     </modules>
 
 
