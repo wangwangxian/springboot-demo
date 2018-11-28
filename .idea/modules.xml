@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-mybatis/common-mybatis.iml" filepath="$PROJECT_DIR$/common-mybatis/common-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springbootAndDubbo.iml" filepath="$PROJECT_DIR$/.idea/springbootAndDubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-controller/web-controller.iml" filepath="$PROJECT_DIR$/web-controller/web-controller.iml" />
+    </modules>
+  </component>
+</project>
