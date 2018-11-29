@@ -1,9 +1,0 @@
-server:
-  port: 8080
-
-spring:
-  datasource:
-     url: jdbc:mysql://10.37.251.224:3311/qding_weixin_platform
-     username: qd
-     password: jsEDtBU8
-     driver-class-name: com.mysql.jdbc.Driver
