@@ -1,5 +1,4 @@
-# springbootAndDubbo
-Spring Boot集成dubbo 
+# springboot开发环境demo
 
 集成mybatis
 
