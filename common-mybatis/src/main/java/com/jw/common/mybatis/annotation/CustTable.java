@@ -11,7 +11,7 @@ import java.lang.annotation.*;
  * @email 1320765779@qq.com
  */
 @Documented
-@Target(ElementType.FIELD)
+@Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
 public @interface CustTable {
     /**

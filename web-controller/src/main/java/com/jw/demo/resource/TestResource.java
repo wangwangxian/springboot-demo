@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping(value = "/test")
 @Api(value = "TestController",description = "测试controller")
-public class TestController {
+public class TestResource {
 
-    private Logger logger = LoggerFactory.getLogger(TestController.class);
+    private Logger logger = LoggerFactory.getLogger(TestResource.class);
 
     @ApiOperation(value="测试接口", notes="测试接口")
     @ApiImplicitParams({
