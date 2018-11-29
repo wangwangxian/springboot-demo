@@ -28,7 +28,7 @@ public class Swagger2 {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("<a href=\"http://localhost:8080/swagger-ui.html\" >springBootAndDubbo RESTful APIs</href>")
-                .description("<p style=\"color:red;\">springBootAndDubbo后台api接口文档</p>")
+                .description("springBootAndDubbo后台api接口文档")
                 .version("1.0")
                 .build();
     }
