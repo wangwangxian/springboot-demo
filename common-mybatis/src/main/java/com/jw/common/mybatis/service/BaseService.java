@@ -16,6 +16,10 @@ import java.lang.reflect.Proxy;
 import java.lang.reflect.Type;
 import java.util.List;
 
+/**
+ * @author jony
+ * @date 2018/09/25 15:07
+ */
 @SuppressWarnings("all")
 public abstract class BaseService<M extends BaseMapper<T>, T> extends ExecuteService implements InitializingBean, CommandLineRunner {
 
@@ -48,7 +52,8 @@ public abstract class BaseService<M extends BaseMapper<T>, T> extends ExecuteSer
     @Transactional
     public boolean add(T t) {
         logger.debug("add {},value is {}", clazz.getSimpleName(), t);
-        return mapper.insert(t) > 0;
+        int count = mapper.insert(t);
+        return count > 0;
     }
     /**
      * 更新实体
