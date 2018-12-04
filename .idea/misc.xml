@@ -9,6 +9,8 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/common-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/common-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/web-controller/pom.xml" />
       </set>
     </option>
   </component>
