@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/common-mybatis/common-mybatis.iml" filepath="$PROJECT_DIR$/common-mybatis/common-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-swagger2/common-swagger2.iml" filepath="$PROJECT_DIR$/common-swagger2/common-swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-demo.iml" filepath="$PROJECT_DIR$/.idea/springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-demo-web/springboot-demo-web.iml" filepath="$PROJECT_DIR$/springboot-demo-web/springboot-demo-web.iml" />
     </modules>
   </component>
 </project>

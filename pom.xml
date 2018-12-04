@@ -18,6 +18,7 @@
         <module>common-mongodb</module>
         <module>common-mybatis</module>
         <module>common-swagger2</module>
+        <module>springboot-demo-web</module>
     </modules>
 
 
