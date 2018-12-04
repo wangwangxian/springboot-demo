@@ -1,24 +1,19 @@
 package com.jw.common.mybatis.mapper;
 
-import org.apache.ibatis.annotations.Param;
-import org.apache.ibatis.annotations.SelectProvider;
-
-import java.util.List;
-import java.util.Map;
 
 /**
  * @author jony
  * @date 2018
  */
 public interface ExecuteMapper{
-    /**
-     * 直接根据SQL语句查询单条数据
-     *
-     * @param sql
-     * @return
-     */
-    @SelectProvider(type = BaseSqlProvider.class, method = "selectSQLOne")
-    Map<String, Object> selectOne(@Param(value = "sql") String sql);
+//    /**
+//     * 直接根据SQL语句查询单条数据
+//     *
+//     * @param sql
+//     * @return
+//     */
+//    @SelectProvider(type = BaseSqlProvider.class, method = "selectSQLOne")
+//    Map<String, Object> selectOne(@Param(value = "sql") String sql);
 //
 //    /**
 //     * 带参数查询单条数据

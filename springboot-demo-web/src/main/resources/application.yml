@@ -14,5 +14,5 @@ springfox:
   documentation:
     swagger:
       v2:
-        host: www.abc.com
+#        host: www.abc.com
         path: /api

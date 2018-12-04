@@ -93,7 +93,7 @@
     </pluginRepositories>
 
     <build>
-        <finalName>web-demo</finalName>
+        <finalName>spring-demo-web</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
