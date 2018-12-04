@@ -1,69 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07729871-935f-4f16-936b-7b077926d359" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
+    <list default="true" id="07729871-935f-4f16-936b-7b077926d359" name="Default" comment="ssss">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_patch_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_core_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_validator_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wordnik_swagger_annotations_1_5_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wordnik_swagger_core_1_5_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wordnik_swagger_models_1_5_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_robwin_markup_document_builder_0_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_robwin_swagger2markup_0_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_staticdocs_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_compat_spec_parser_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_parser_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_25.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustOneToMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustOneToOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustOrderBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustWhere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/domain/BaseDomain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/domain/GsonTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/domain/OrderBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception/BaseServiceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception/MapperUnsuitedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception/OneToManyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception/OneToOneException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/mapper/BaseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/mapper/BaseSqlProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/mapper/ExecuteMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service/ExecuteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-swagger2/common-swagger2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-swagger2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/WebMvcConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common-mybatis/common-mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common-mybatis/common-mybatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-swagger2/common-swagger2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-swagger2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/Swagger2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/WebMvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-swagger2/target/classes/com/jw/common/swagger2/Swagger2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-swagger2/target/classes/com/jw/common/swagger2/WebMvcConfig.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/docs/json/swagger.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/StartApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/domain/ResultMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/domain/WxQrcodeEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/enums/ResultEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/mapper/WxQrcodeMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/HomeResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/TestResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/WxQrcodeResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/service/WxQrcodeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/src/test/java/com/swagger2/Swagger2MarkupTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/StartApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/domain/ResultMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/domain/WxQrcodeEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/enums/ResultEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/mapper/WxQrcodeMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/resource/HomeResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/resource/TestResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/resource/WxQrcodeResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/classes/com/jw/demo/service/WxQrcodeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/target/test-classes/com/swagger2/Swagger2MarkupTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-controller/web-controller.iml" beforeDir="false" />
     </list>
     <ignored path="$USER_HOME$/ProjectOutput/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,64 +132,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-mybatis/pom.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustWhere.java">
+        <entry file="file://$PROJECT_DIR$/common-swagger2/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/domain/OrderBy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception/OneToOneException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/mapper/ExecuteMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="532">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/WebMvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service/ExecuteService.java">
+        <entry file="file://$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/Swagger2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="171">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -208,7 +219,6 @@
         <option value="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception/BaseServiceNotFoundException.java" />
         <option value="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service/ExecuteService.java" />
         <option value="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service/BaseService.java" />
-        <option value="$PROJECT_DIR$/common-swagger2/pom.xml" />
         <option value="$PROJECT_DIR$/web-controller/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/web-controller/src/test/java/com/swagger2/Swagger2MarkupTest.java" />
         <option value="$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/HomeResource.java" />
@@ -216,6 +226,7 @@
         <option value="$PROJECT_DIR$/web-controller/pom.xml" />
         <option value="$PROJECT_DIR$/common-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/common-swagger2/pom.xml" />
       </list>
     </option>
   </component>
@@ -259,8 +270,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,91 +277,12 @@
               <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jw" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jw" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootAndDubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootAndDubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jw" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,8 +294,8 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543909681030" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543910688877" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -374,23 +304,23 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service" />
-      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/mapper" />
-      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception" />
-      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/domain" />
-      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.jw.demo.domain" />
-      <recent name="com.jw.demo.swagger" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common" />
       <recent name="$PROJECT_DIR$/web-controller/src/test/java" />
       <recent name="$PROJECT_DIR$/web-controller/src/main/resources" />
       <recent name="$PROJECT_DIR$/web-controller/src/main/java/com/jw" />
       <recent name="$PROJECT_DIR$/web-controller/src/main/java/com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jw.demo.domain" />
+      <recent name="com.jw.demo.swagger" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2" />
+      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service" />
+      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/mapper" />
+      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception" />
+      <recent name="$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/domain" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -494,8 +424,17 @@
       <workItem from="1543801796424" duration="5381000" />
       <workItem from="1543887632981" duration="2783000" />
       <workItem from="1543907885680" duration="254000" />
-      <workItem from="1543908191172" duration="1360000" />
+      <workItem from="1543908191172" duration="1548000" />
+      <workItem from="1543909873959" duration="760000" />
     </task>
+    <task id="LOCAL-00001" summary="ssss">
+      <created>1543909834793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543909834793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -507,12 +446,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81280000" />
+    <option name="totallyTimeSpent" value="82228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1163" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3586084" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36485282" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -522,7 +461,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32484075" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32484075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36815286" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -545,11 +484,15 @@
       <window_info anchor="right" id="Database" order="7" weight="0.3297568" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.2353362" />
       <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info active="true" anchor="right" id="Maven" order="10" visible="true" weight="0.2586976" />
+      <window_info anchor="right" id="Maven" order="10" visible="true" weight="0.17395183" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ssss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssss" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
@@ -602,13 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/domain/ResultMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/domain/ResultMap.java" />
     <entry file="file://$PROJECT_DIR$/web-controller/src/main/resources/spring-context.xml" />
     <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/utils/MyHttpMessageConverter.java" />
     <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/swagger/WebMvcConfig.java" />
@@ -619,20 +556,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/StartApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/TestResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="23" column="6" selection-start-line="19" selection-start-column="4" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/StartApplication.java" />
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/TestResource.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -659,13 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustColumn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -708,105 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/domain/WxQrcodeEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
-          <folding>
-            <element signature="e#1827#1828#0" expanded="true" />
-            <element signature="e#1860#1861#0" expanded="true" />
-            <element signature="e#1888#1889#0" expanded="true" />
-            <element signature="e#1922#1923#0" expanded="true" />
-            <element signature="e#1952#1953#0" expanded="true" />
-            <element signature="e#1998#1999#0" expanded="true" />
-            <element signature="e#2036#2037#0" expanded="true" />
-            <element signature="e#2067#2068#0" expanded="true" />
-            <element signature="e#2094#2095#0" expanded="true" />
-            <element signature="e#2134#2135#0" expanded="true" />
-            <element signature="e#2166#2167#0" expanded="true" />
-            <element signature="e#2202#2203#0" expanded="true" />
-            <element signature="e#2233#2234#0" expanded="true" />
-            <element signature="e#2282#2283#0" expanded="true" />
-            <element signature="e#2322#2323#0" expanded="true" />
-            <element signature="e#2359#2360#0" expanded="true" />
-            <element signature="e#2391#2392#0" expanded="true" />
-            <element signature="e#2442#2443#0" expanded="true" />
-            <element signature="e#2484#2485#0" expanded="true" />
-            <element signature="e#2517#2518#0" expanded="true" />
-            <element signature="e#2546#2547#0" expanded="true" />
-            <element signature="e#2590#2591#0" expanded="true" />
-            <element signature="e#2626#2627#0" expanded="true" />
-            <element signature="e#2656#2657#0" expanded="true" />
-            <element signature="e#2682#2683#0" expanded="true" />
-            <element signature="e#2720#2721#0" expanded="true" />
-            <element signature="e#2750#2751#0" expanded="true" />
-            <element signature="e#2788#2789#0" expanded="true" />
-            <element signature="e#2824#2825#0" expanded="true" />
-            <element signature="e#2880#2881#0" expanded="true" />
-            <element signature="e#2930#2931#0" expanded="true" />
-            <element signature="e#2965#2966#0" expanded="true" />
-            <element signature="e#2998#2999#0" expanded="true" />
-            <element signature="e#3048#3049#0" expanded="true" />
-            <element signature="e#3092#3093#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
-            <element signature="e#3158#3159#0" expanded="true" />
-            <element signature="e#3206#3207#0" expanded="true" />
-            <element signature="e#3246#3247#0" expanded="true" />
-            <element signature="e#3281#3282#0" expanded="true" />
-            <element signature="e#3314#3315#0" expanded="true" />
-            <element signature="e#3364#3365#0" expanded="true" />
-            <element signature="e#3408#3409#0" expanded="true" />
-            <element signature="e#3443#3444#0" expanded="true" />
-            <element signature="e#3474#3475#0" expanded="true" />
-            <element signature="e#3522#3523#0" expanded="true" />
-            <element signature="e#3562#3563#0" expanded="true" />
-            <element signature="e#3599#3600#0" expanded="true" />
-            <element signature="e#3631#3632#0" expanded="true" />
-            <element signature="e#3682#3683#0" expanded="true" />
-            <element signature="e#3724#3725#0" expanded="true" />
-            <element signature="e#3768#3769#0" expanded="true" />
-            <element signature="e#3807#3808#0" expanded="true" />
-            <element signature="e#3872#3873#0" expanded="true" />
-            <element signature="e#3928#3929#0" expanded="true" />
-            <element signature="e#3965#3966#0" expanded="true" />
-            <element signature="e#3997#3998#0" expanded="true" />
-            <element signature="e#4048#4049#0" expanded="true" />
-            <element signature="e#4090#4091#0" expanded="true" />
-            <element signature="e#4125#4126#0" expanded="true" />
-            <element signature="e#4155#4156#0" expanded="true" />
-            <element signature="e#4202#4203#0" expanded="true" />
-            <element signature="e#4240#4241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/mapper/WxQrcodeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/service/WxQrcodeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/WxQrcodeResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/domain/WxQrcodeEntity.java" />
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/mapper/WxQrcodeMapper.java" />
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/service/WxQrcodeService.java" />
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/WxQrcodeResource.java" />
     <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/exception/BaseServiceNotFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -825,45 +648,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/web-controller/src/test/com/swagger2/MarkupTest.java" />
-    <entry file="file://$PROJECT_DIR$/web-controller/src/docs/json/swagger.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/HomeResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common-swagger2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="126" column="31" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web-controller/src/docs/json/swagger.json" />
+    <entry file="file://$PROJECT_DIR$/web-controller/src/main/java/com/jw/demo/resource/HomeResource.java" />
+    <entry file="file://$PROJECT_DIR$/web-controller/pom.xml" />
     <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service/BaseService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -881,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/mapper/BaseSqlProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3173">
@@ -895,23 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-controller/src/test/java/com/swagger2/Swagger2MarkupTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web-controller/src/test/java/com/swagger2/Swagger2MarkupTest.java" />
     <entry file="file://$PROJECT_DIR$/common-mongodb/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -919,10 +685,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/annotation/CustColumn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common-mybatis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -935,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/domain/OrderBy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
+        <state relative-caret-position="266">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
@@ -956,15 +729,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common-mybatis/src/main/java/com/jw/common/mybatis/service/ExecuteService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="152">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-swagger2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-swagger2/src/main/java/com/jw/common/swagger2/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

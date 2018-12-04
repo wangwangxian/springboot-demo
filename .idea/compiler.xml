@@ -8,13 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="common-mongodb" />
         <module name="common-mybatis" />
+        <module name="common-swagger2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common-mongodb" target="1.6" />
       <module name="common-mybatis" target="1.8" />
       <module name="common-swagger2" target="1.6" />
-      <module name="springbootAndDubbo" target="1.6" />
+      <module name="springboot-demo" target="1.6" />
       <module name="web-controller" target="7" />
     </bytecodeTargetLevel>
   </component>
